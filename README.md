@@ -1,3 +1,3 @@
 # ml-cheatsheets
 
-Some machine learning algo/models cheat sheets
+Some machine learning algo cheat sheets wrote by myself
